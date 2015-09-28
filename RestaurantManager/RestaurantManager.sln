@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantManager", "RestaurantManager\RestaurantManager.csproj", "{26E8FAA5-9599-46DF-9794-2AC1018565C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantManager.UniversalWindows", "RestaurantManager.UniversalWindows\RestaurantManager.UniversalWindows.csproj", "{DCDD3D67-398F-4B4E-97B0-119787599213}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,24 +15,24 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{26E8FAA5-9599-46DF-9794-2AC1018565C5}.Debug|ARM.ActiveCfg = Debug|ARM
-		{26E8FAA5-9599-46DF-9794-2AC1018565C5}.Debug|ARM.Build.0 = Debug|ARM
-		{26E8FAA5-9599-46DF-9794-2AC1018565C5}.Debug|ARM.Deploy.0 = Debug|ARM
-		{26E8FAA5-9599-46DF-9794-2AC1018565C5}.Debug|x64.ActiveCfg = Debug|x64
-		{26E8FAA5-9599-46DF-9794-2AC1018565C5}.Debug|x64.Build.0 = Debug|x64
-		{26E8FAA5-9599-46DF-9794-2AC1018565C5}.Debug|x64.Deploy.0 = Debug|x64
-		{26E8FAA5-9599-46DF-9794-2AC1018565C5}.Debug|x86.ActiveCfg = Debug|x86
-		{26E8FAA5-9599-46DF-9794-2AC1018565C5}.Debug|x86.Build.0 = Debug|x86
-		{26E8FAA5-9599-46DF-9794-2AC1018565C5}.Debug|x86.Deploy.0 = Debug|x86
-		{26E8FAA5-9599-46DF-9794-2AC1018565C5}.Release|ARM.ActiveCfg = Release|ARM
-		{26E8FAA5-9599-46DF-9794-2AC1018565C5}.Release|ARM.Build.0 = Release|ARM
-		{26E8FAA5-9599-46DF-9794-2AC1018565C5}.Release|ARM.Deploy.0 = Release|ARM
-		{26E8FAA5-9599-46DF-9794-2AC1018565C5}.Release|x64.ActiveCfg = Release|x64
-		{26E8FAA5-9599-46DF-9794-2AC1018565C5}.Release|x64.Build.0 = Release|x64
-		{26E8FAA5-9599-46DF-9794-2AC1018565C5}.Release|x64.Deploy.0 = Release|x64
-		{26E8FAA5-9599-46DF-9794-2AC1018565C5}.Release|x86.ActiveCfg = Release|x86
-		{26E8FAA5-9599-46DF-9794-2AC1018565C5}.Release|x86.Build.0 = Release|x86
-		{26E8FAA5-9599-46DF-9794-2AC1018565C5}.Release|x86.Deploy.0 = Release|x86
+		{DCDD3D67-398F-4B4E-97B0-119787599213}.Debug|ARM.ActiveCfg = Debug|ARM
+		{DCDD3D67-398F-4B4E-97B0-119787599213}.Debug|ARM.Build.0 = Debug|ARM
+		{DCDD3D67-398F-4B4E-97B0-119787599213}.Debug|ARM.Deploy.0 = Debug|ARM
+		{DCDD3D67-398F-4B4E-97B0-119787599213}.Debug|x64.ActiveCfg = Debug|x64
+		{DCDD3D67-398F-4B4E-97B0-119787599213}.Debug|x64.Build.0 = Debug|x64
+		{DCDD3D67-398F-4B4E-97B0-119787599213}.Debug|x64.Deploy.0 = Debug|x64
+		{DCDD3D67-398F-4B4E-97B0-119787599213}.Debug|x86.ActiveCfg = Debug|x86
+		{DCDD3D67-398F-4B4E-97B0-119787599213}.Debug|x86.Build.0 = Debug|x86
+		{DCDD3D67-398F-4B4E-97B0-119787599213}.Debug|x86.Deploy.0 = Debug|x86
+		{DCDD3D67-398F-4B4E-97B0-119787599213}.Release|ARM.ActiveCfg = Release|ARM
+		{DCDD3D67-398F-4B4E-97B0-119787599213}.Release|ARM.Build.0 = Release|ARM
+		{DCDD3D67-398F-4B4E-97B0-119787599213}.Release|ARM.Deploy.0 = Release|ARM
+		{DCDD3D67-398F-4B4E-97B0-119787599213}.Release|x64.ActiveCfg = Release|x64
+		{DCDD3D67-398F-4B4E-97B0-119787599213}.Release|x64.Build.0 = Release|x64
+		{DCDD3D67-398F-4B4E-97B0-119787599213}.Release|x64.Deploy.0 = Release|x64
+		{DCDD3D67-398F-4B4E-97B0-119787599213}.Release|x86.ActiveCfg = Release|x86
+		{DCDD3D67-398F-4B4E-97B0-119787599213}.Release|x86.Build.0 = Release|x86
+		{DCDD3D67-398F-4B4E-97B0-119787599213}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
